@@ -1,0 +1,10 @@
+.checkout-button {
+  display: block;
+  margin: 0 auto;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}

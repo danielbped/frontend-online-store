@@ -1,0 +1,95 @@
+.payment-title {
+  margin-left: 1rem;
+  padding: 1rem;
+}
+
+.payment-cart {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.payment-form {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.payment-input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  width: 20%;
+}
+
+.address {
+  width: 62%;
+}
+
+.payment-select {
+  height: 2rem;
+  margin-top: 0.5rem;
+  width: 20%;
+}
+
+.payment-radios {
+  display: flex;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.payment-radios p {
+  margin-bottom: 1rem;
+}
+
+.payment-card {
+  margin: 1rem;
+}
+
+.payment-radios label {
+  margin-right: 1rem;
+}
+
+.payment-button {
+  background-color: white;
+  border: 1px solid black;
+  margin: 1rem 1rem 2rem 3rem;
+  padding: 0.5rem;
+}
+
+.payment-button:hover {
+  cursor: pointer;
+}
+
+.back-icon {
+  color: black;
+  margin: 1rem;
+}
+
+.payment-cart-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.payment-cart-item {
+  display: block;
+  text-align: center;
+  width: 40%;
+}
+
+.payment-cart-item-title {
+  margin-bottom: 1rem;
+}
+
+.payment-cart-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.payment-total {
+  background-color: rgba(0, 0, 0, 0.125);
+  font-weight: 700;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  text-align: center;
+  width: 80%;
+}

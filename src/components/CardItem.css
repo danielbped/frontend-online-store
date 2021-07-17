@@ -1,0 +1,34 @@
+* {
+  box-sizing: content-box;
+}
+
+.card-item {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 3px;
+  display: inline-flex;
+  flex-direction: column;
+  margin: 5px;
+  overflow: hidden;
+  padding: 1rem;
+  width: 200px;
+}
+
+.card-item img {
+  margin-top: 1rem;
+  width: 150px;
+}
+
+.card-item p {
+  color: black;
+}
+
+.card-item a {
+  text-decoration: none;
+}
+
+.free-shipping {
+  background-color: rgb(13, 252, 25);
+  border-radius: 15px;
+  margin-top: 1rem;
+}

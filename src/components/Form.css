@@ -1,0 +1,20 @@
+.form {
+  padding-bottom: 5%;
+  padding-left: 5%;
+}
+
+.form-input-email {
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.form-rating-stars {
+  font-size: 1.5rem;
+  vertical-align: middle;
+}
+
+.form-input-message {
+  display: block;
+  padding: 1rem 7rem 3rem 1rem;
+  resize: none;
+}

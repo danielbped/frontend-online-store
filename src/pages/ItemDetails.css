@@ -1,0 +1,11 @@
+.item-details {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10rem;
+}
+
+.item-details-left {
+  text-align: center;
+}
+
+.item-details-image { width: 300px; }
