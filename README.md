@@ -1,7 +1,7 @@
 # Projeto [Frontend Online Store](https://github.com/tryber/sd-12-project-frontend-online-store/pull/127)
   - Módulo 2: Desenvolvimento Front-end
     - Bloco 14: Metodologias Ágeis - Primeiro projeto em equipe 
-# Requisitos
+### Requisitos
 - [x] Implemente o módulo de acesso à api do Mercado Livre
 - [x] Crie uma página de listagem de produtos vazia
 - [x] Crie a página do carrinho de compras
@@ -17,7 +17,7 @@
 - [x] Mostre junto ao ícone do carrinho a quantidade de produtos dentro dele, em todas as telas em que ele aparece
 - [x] Limite a quantidade de produtos adicionados ao carrinho pela quantidade disponível em estoque
 - [x] Mostre quais produtos tem o frete grátis
-# Requisitos opcionais (Em desenvolvimento)
+### Requisitos opcionais (Em desenvolvimento)
 - [ ] Faça um layout responsivo para o site
 - [ ] Crie um seletor dropdown para ordenar a lista de produto por maior e menor preço
 - [ ] Coloque uma animação no carrinho para quando um produto for adicionado
